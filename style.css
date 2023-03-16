@@ -1,0 +1,43 @@
+.body {
+    width: 900px;
+    height: 620px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 30px;
+    border: 14px solid;
+    border-color: rgb(224, 224, 224);
+    box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+}
+
+.screen {
+    width: 850px;
+    height: 520px;
+    background-color: rgb(7, 255, 81);
+    border-radius: 30px;
+    margin-left: 20px;
+    border: 3px solid;
+    border-color: rgb(165, 165, 165);
+}
+
+.logo {
+    width: 70px;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+.stand {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    margin-left: 380px;
+    box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+}
+
+.floor {
+    width: 300px;
+    height: 25px;
+    background-color: rgb(212, 212, 212);
+    margin-left: 300px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    box-shadow: 10px 10px 16px 0px rgba(0,0,0,0.75);
+}
